@@ -1,0 +1,28 @@
+.env
+.env.*
+!.env.example
+
+# Windows and editor files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+.vscode/
+.idea/
+
+# Office temporary files
+~$*
+*.tmp
+
+# Logs and caches
+*.log
+.cache/
+tmp/
+temp/
+
+# Build and dependency outputs
+node_modules/
+dist/
+build/
+__pycache__/
+*.py[cod]
