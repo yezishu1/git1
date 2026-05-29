@@ -2,6 +2,8 @@
 .env.*
 !.env.example
 
+paper/
+
 # Windows and editor files
 Thumbs.db
 Desktop.ini
